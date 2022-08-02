@@ -17,10 +17,11 @@ Voila c'est tout, j'espere que ce repo pourra vous aider, bonne piscine a tout l
 
 Raphael.
 
-PS: ce reademe contient surement des fautes d'orthaugraphes, si vous en voyez c'est cool, bien joue.  
-PPS: je ne sais pas si je finirais un jour les exercices, donc pas la peine d'attendre.  
-PPPS: je trouve ca tres drole de mettre pleins de PS sans raison.  
-PPPPS: petit exercice: ecrivez un programme qui rempli un tableau de char de 100 PS en ajoutant a chaque fois un P;
+PS: dans certains dossiers j'ai laisse des fichiers main et des fichiers a.out, n'y pretez pas attention ils ne sont pas utiles pour les exercices.  
+PPS: ce reademe contient surement des fautes d'orthaugraphes, si vous en voyez c'est cool, bien joue.  
+PPPS: je ne sais pas si je finirais un jour les exercices, donc pas la peine d'attendre.  
+PPPPS: je trouve ca tres drole de mettre pleins de PS sans raison.  
+PPPPPS: petit exercice: ecrivez un programme qui rempli un tableau de char de 100 PS en ajoutant a chaque fois un P;
   - Dossier de rendu: ex00/
   - Fichiers a rendre: je_me_fais_vraiment_chier.c
   - Fonction Autorisees: write;
