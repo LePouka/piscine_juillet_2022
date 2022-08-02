@@ -8,9 +8,7 @@ Vous y trouverez donc les sujets des projets que j'ai eu le temps de recuperer a
 Comme vous pourrez le remarquer certains projets ne sont pas fini voir pas fait du tout ou alors ne fonctionnent pas tout simplement.
 Pour que ce soit plus claire j'ai donc ajoute des precisions dans les noms des exercices:
   - "_ok" a cote des exercices qui ont ete valide par la moulinette;
-  - "_fail" a cote des exercices qui ont ete note faux a la moulinette;
-  - "_idk" a cote des exercices que je n'ai pas fait passer a la moulinette, je ne sais donc pas s'ils sont juste ou faux;
-  - "_unfinished" a cote des exercices pas finis;
+  - "_fail" a cote des exercices qui soit ont ete conte faux par la moulinette, soit que je n'ai pas eu le temps de passer a la moulinette;
   - et ceux qui sont pas fait bah ils sont pas fait donc je peux pas trop modifier leur nom;
 Toutefois gardez en tete que ces fichiers sont la pour aider, si vous etes en train de faire votre piscine ne vous contentez pas de copier/coller bettement sans comprendre, cela ne sert a rien ;)
 Voila c'est tout, j'espere que ce repo pourra vous aider, bonne piscine a tout les piscineux et les autres bah bonne lecture.
