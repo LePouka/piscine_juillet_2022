@@ -10,7 +10,7 @@ Pour que ce soit plus claire j'ai donc ajoute des precisions dans les noms des e
   - "_ok" a cote des exercices qui ont ete valide par la moulinette;
   - "_fail" a cote des exercices qui soit ont ete conte faux par la moulinette, soit que je n'ai pas eu le temps de passer a la moulinette;
   - et ceux qui sont pas fait bah ils sont pas fait donc je peux pas trop modifier leur nom;
-  - a noter que les rush ont tous ete faux a l'exeption du 00;
+  - a noter que les rush ont tous ete faux a l'exeption du 00, mais je n'ai malheureusement pas reussi a recuperer les sujets a part celui du 02;
 
 Toutefois gardez en tete que ces fichiers sont la pour aider, si vous etes en train de faire votre piscine ne vous contentez pas de copier/coller bettement sans comprendre, cela ne sert a rien ;)  
 Voila c'est tout, j'espere que ce repo pourra vous aider, bonne piscine a tout les piscineux et les autres bah bonne lecture.  
