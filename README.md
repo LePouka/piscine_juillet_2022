@@ -1,8 +1,8 @@
-# piscine_aout_2022
+# piscine_juillet_2022
 
 Bonour,
 
-J'ai choisi de creer ce repo GitHub afin de garder une trace de ma piscine 42, que j'ai fait en aout 2022 (c'etait plutot logique vu le titre du repo mais on sait jamais).  
+J'ai choisi de creer ce repo GitHub afin de garder une trace de ma piscine 42, que j'ai fait en juillet 2022 (c'etait plutot logique vu le titre du repo mais on sait jamais).  
 J'ai egalement choisi de le mettre en public afin que des futurs piscineux puissent s'entrainer en avance, ou tout simplement si vous voulez en savoir un peu plus sur la piscine de 42.  
 Vous y trouverez donc les sujets des projets que j'ai eu le temps de recuperer ainsi que certains des exercices en question.  
 Comme vous pourrez le remarquer certains projets ne sont pas fini voir pas fait du tout ou alors ne fonctionnent pas tout simplement.  
